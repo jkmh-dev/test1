@@ -1,3 +1,3 @@
 <?php
-    echo "Bienvenido a mi portafolio"
+    echo "<h1>Bienvenido a mi portafolio</h1>";
 ?>
